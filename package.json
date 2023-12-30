@@ -1,0 +1,14 @@
+{
+  "name": "natours_adv_css_page",
+  "version": "1.0.0",
+  "description": "Landing Page",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Mehtab SJ",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
