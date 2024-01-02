@@ -17,6 +17,8 @@
     border-radius: 3px;
     overflow: hidden;
     box-shadow: 0 1.5rem 4rem rgba($color-black, 0.15);
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
 
     &--front {
       background-color: $color-white;
